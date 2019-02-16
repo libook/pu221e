@@ -1,0 +1,21 @@
+{
+  "name": "pu221e",
+  "version": "0.0.1",
+  "description": "Hide secrets into picture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puzzle",
+    "image",
+    "picture",
+    "secrets",
+    "encrypt"
+  ],
+  "author": "libook7@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.6.0"
+  }
+}
