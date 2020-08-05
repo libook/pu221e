@@ -16,6 +16,6 @@
   "author": "libook7@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "jimp": "^0.6.4"
+    "jimp": "^0.14.0"
   }
 }
